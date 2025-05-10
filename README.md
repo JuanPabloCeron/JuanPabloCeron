@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+# 💻 Hi there, I'm Juan Pablo! 
+
+A passionate backend developer with expertise in building robust and scalable systems. 
+
+```diff
++ 🔧 Crafting code that powers the web
++ 🚀 Building scalable backend architectures
++ 🛠️ Solving complex problems with elegant solutions
+
+
+
 <!--
 **JuanPabloCeron/JuanPabloCeron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
