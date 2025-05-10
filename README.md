@@ -25,8 +25,7 @@ Distributed team collaboration
 ## 📫 Contacto/Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-ceron-penuela)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanpabloceron.p@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanpabloceron.p@gmail.com)
 ## 🌍 International Experience
 ```diff
 + Italy | Colombia | Argentina | Spain
