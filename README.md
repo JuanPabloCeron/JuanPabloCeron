@@ -1,4 +1,4 @@
-z# 🚀 Juan Pablo Ceron | Backend Developer
+🚀 Juan Pablo Ceron | Backend Developer
 
 **Java Spring Boot & Python Django Specialist**  
 💻 RESTful APIs | 🏗️ Scalable Architectures | 🗃️ Database Optimization
