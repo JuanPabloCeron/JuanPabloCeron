@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📊 Contribuciones (Animado)
-![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=TU_USERNAME&theme=github-compact&hide_border=true&area=true)
+
 
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](URL_LINKEDIN)
