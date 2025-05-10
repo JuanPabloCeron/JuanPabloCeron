@@ -11,6 +11,20 @@
 ![Oracle](https://img.shields.io/badge/Oracle_PL/SQL-Specialist-F80000?logo=oracle)
 ![REST APIs](https://img.shields.io/badge/REST_API-Design-FF6F61?logo=rest)
 
+📊 Key Skills
+Scalable architectures with Spring Boot
+
+High-performance APIs (Clean Code)
+
+Process optimization with PL/SQL
+
+Complex systems integration
+
+Distributed team collaboration
+
+📫 Let's connect: LinkedIn | Email
+
+
 ## 🌍 International Experience
 ```diff
 + Italy | Colombia | Argentina | Spain
