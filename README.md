@@ -10,6 +10,7 @@
 ![Django](https://img.shields.io/badge/Django-Framework-092E20?logo=django)
 ![Oracle](https://img.shields.io/badge/Oracle_PL/SQL-Specialist-F80000?logo=oracle)
 ![REST APIs](https://img.shields.io/badge/REST_API-Design-FF6F61?logo=rest)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 📊 Key Skills
 Scalable architectures with Spring Boot
