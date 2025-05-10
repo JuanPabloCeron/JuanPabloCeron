@@ -23,8 +23,9 @@ Complex systems integration
 Distributed team collaboration
 
 ## 📫 Contacto/Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-ceron-penuela)
-[![Email](https://img.shields.io/badge/-juanpabloceron.p@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juanpabloceron.p@gmail.com)](mailto:juanpabloceron.p@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=0077B5)](https://www.linkedin.com/in/juan-pablo-ceron-penuela)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&label=Email&labelColor=D14836)](mailto:juanpabloceron.p@gmail.com)
 
 ## 🌍 International Experience
 ```diff
